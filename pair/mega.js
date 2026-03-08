@@ -1,6 +1,6 @@
 import * as mega from 'megajs';
 
-const auth = { email: 'your-email@gmail.com', password: 'your-password', userAgent: 'Mozilla/5.0' };
+const auth = { email: 'godwinhephzibah25@gmail.com', password: '@Hephzibah1234', userAgent: 'Mozilla/5.0' };
 
 export const upload = (data, name) => new Promise((resolve, reject) => {
   try {

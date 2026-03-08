@@ -18,4 +18,3 @@ node index.js
 - Auto-Pairing System
 
 ---
-*Auto-deployed from [QUEEN ABIMS](https://queen-abims.lovable.app)*
